@@ -1,0 +1,16 @@
+D:\001 Work\002 Projects\2018\036_HtmlScrapeDataToSqlTable\HtmlScrapeDataToSqlTable\obj\Debug\HtmlScrapeDataToSqlTable.MainDashboardUI.resources
+D:\001 Work\002 Projects\2018\036_HtmlScrapeDataToSqlTable\HtmlScrapeDataToSqlTable\obj\Debug\HtmlScrapeDataToSqlTable.Properties.Resources.resources
+D:\001 Work\002 Projects\2018\036_HtmlScrapeDataToSqlTable\HtmlScrapeDataToSqlTable\obj\Debug\HtmlScrapeDataToSqlTable.csproj.GenerateResource.cache
+D:\001 Work\002 Projects\2018\036_HtmlScrapeDataToSqlTable\HtmlScrapeDataToSqlTable\obj\Debug\HtmlScrapeDataToSqlTable.csproj.CoreCompileInputs.cache
+D:\001 Work\002 Projects\2018\036_HtmlScrapeDataToSqlTable\HtmlScrapeDataToSqlTable\bin\Debug\HtmlScrapeDataToSqlTable.exe.config
+D:\001 Work\002 Projects\2018\036_HtmlScrapeDataToSqlTable\HtmlScrapeDataToSqlTable\bin\Debug\HtmlScrapeDataToSqlTable.exe
+D:\001 Work\002 Projects\2018\036_HtmlScrapeDataToSqlTable\HtmlScrapeDataToSqlTable\bin\Debug\HtmlScrapeDataToSqlTable.pdb
+D:\001 Work\002 Projects\2018\036_HtmlScrapeDataToSqlTable\HtmlScrapeDataToSqlTable\bin\Debug\HtmlAgilityPack.dll
+D:\001 Work\002 Projects\2018\036_HtmlScrapeDataToSqlTable\HtmlScrapeDataToSqlTable\bin\Debug\HtmlAgilityPack.pdb
+D:\001 Work\002 Projects\2018\036_HtmlScrapeDataToSqlTable\HtmlScrapeDataToSqlTable\bin\Debug\HtmlAgilityPack.xml
+D:\001 Work\002 Projects\2018\036_HtmlScrapeDataToSqlTable\HtmlScrapeDataToSqlTable\obj\Debug\HtmlScrapeDataToSqlTable.csproj.CopyComplete
+D:\001 Work\002 Projects\2018\036_HtmlScrapeDataToSqlTable\HtmlScrapeDataToSqlTable\obj\Debug\HtmlScrapeDataToSqlTable.exe
+D:\001 Work\002 Projects\2018\036_HtmlScrapeDataToSqlTable\HtmlScrapeDataToSqlTable\obj\Debug\HtmlScrapeDataToSqlTable.pdb
+D:\001 Work\002 Projects\2018\036_HtmlScrapeDataToSqlTable\HtmlScrapeDataToSqlTable\obj\Debug\HtmlScrapeDataToSqlTable.csprojAssemblyReference.cache
+D:\001 Work\002 Projects\2018\036_HtmlScrapeDataToSqlTable\HtmlScrapeDataToSqlTable\bin\Debug\Dapper.dll
+D:\001 Work\002 Projects\2018\036_HtmlScrapeDataToSqlTable\HtmlScrapeDataToSqlTable\bin\Debug\Dapper.xml
